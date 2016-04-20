@@ -1,0 +1,28 @@
+name: Backdrop
+favicon: null
+layout_spectrum: 0.670484387781471
+typography_spectrum: 0.7312816162593663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.11715962504968047
+  lightness: 0.541591081302613
+  saturation: 0.7232490330934525
+  rhythmicContrast: 0.09558881679549813
+purpose: []
