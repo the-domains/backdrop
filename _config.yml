@@ -2,6 +2,7 @@ name: Backdrop
 favicon: null
 layout_spectrum: 0.75275
 typography_spectrum: 0.73412
+title: Backdrop
 cta:
   domain: null
   bucket: null
