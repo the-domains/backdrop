@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Backdrop]]></title>
+        <description><![CDATA[Backdrop]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Apr 2016 16:37:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It is time to get started]]></title>
+            <description><![CDATA[<article><h1>It is time to get started</h1><p>Once upon a time, there was a lorem ipsum </p></article>]]></description>
+            <link>undefinedit-is-time-to-get-started/index.html</link>
+            <guid isPermaLink="false">ff95ff37-6a31-4e74-9b2a-9a1397a90407</guid>
+            <pubDate>Wed, 20 Apr 2016 16:37:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
