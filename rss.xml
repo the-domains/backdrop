@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Backdrop]]></title>
         <description><![CDATA[Backdrop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/backdrop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 16:37:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 17:41:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/backdrop/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[It is time to get started]]></title>
             <description><![CDATA[<article><h1>It is time to get started</h1><p>Once upon a time, there was a lorem ipsum </p></article>]]></description>
-            <link>undefinedit-is-time-to-get-started/index.html</link>
+            <link>https://thegrid.ai/backdrop/it-is-time-to-get-started/index.html</link>
             <guid isPermaLink="false">ff95ff37-6a31-4e74-9b2a-9a1397a90407</guid>
-            <pubDate>Wed, 20 Apr 2016 16:37:40 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2016 17:41:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
